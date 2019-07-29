@@ -1,2 +1,2 @@
 # hexa-tournament
-Torunament for hexa-ia-agent develop in nodejs
+Tournament for hexa-ia-agent develop in nodejs
